@@ -32,6 +32,6 @@
 <h3>Now lets start learning React, I will do a checklist and mark what I already learned, and what I still in the way to learn.</h3>
 
 - [x] Understanding how React works.
-- [x] Training my skills building a Netflix Clone.
+- [x] Training my skills building a <a href="https://github.com/SamLeal/Netflix-Clone-React.git">Netflix Clone</a>.
 
 
