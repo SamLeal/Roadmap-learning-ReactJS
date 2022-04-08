@@ -34,4 +34,10 @@
 - [x] Understanding how React works.
 - [x] Training my skills building a <a href="https://github.com/SamLeal/Netflix-Clone-React.git">Netflix Clone</a>.
 
+##
 
+<h3>Learning NextJS<h3/>
+  
+  <p>-Repository learning <a href="https://github.com/SamLeal/Aprendendo-NextJS">NextJS</a>.</p>
+
+  ##
